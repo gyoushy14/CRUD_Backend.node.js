@@ -1,0 +1,1 @@
+mongodb conection = mongodb+srv://mahmouelgyuoshy:8yIL9kCWssyCcvqB@cluster0.gt2tgnd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
